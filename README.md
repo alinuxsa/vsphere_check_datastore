@@ -1,0 +1,2 @@
+# vsphere_check_datastore
+检查vsphere中数据存储使用情况
